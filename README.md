@@ -13,6 +13,6 @@
 
 <img align="left" src ="https://github-readme-stats.vercel.app/api?username=subbusainath&&show_icons=true&theme=radical&show_owner=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbusainath&hide=css,html&theme=radical&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbusainath&hide=css,html&theme=radical&layout=compact"/>
 
 
