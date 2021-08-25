@@ -10,8 +10,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You're born with just 1 pint of blood, but by the time you're an adult you have 4 to 5 quarts
 
-- Check out My Blog Posts on:
-[How to create server side pagination Rest Endpoint using nodejs, prisma with Postgresql](https://dev.to/subbusainath/how-to-create-server-side-pagination-rest-api-endpoint-using-nodejs-prisma-with-postgresql-54l6)
+## Latest Blog Posts
+- [SQS, SNS OR Step Functions- When to Use What](https://www.antstack.io/blog/SNS-SQS-StepFunction-When-to-Use-What/)
+
+- [How to create server side pagination Rest Endpoint using nodejs, prisma with Postgresql](https://dev.to/subbusainath/how-to-create-server-side-pagination-rest-api-endpoint-using-nodejs-prisma-with-postgresql-54l6)
 
 Follow me in [twitter](https://twitter.com/SubbuSainath) & [dev.to](https://dev.to/subbusainath)
 
