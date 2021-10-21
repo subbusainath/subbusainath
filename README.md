@@ -10,6 +10,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You're born with just 1 pint of blood, but by the time you're an adult you have 4 to 5 quarts
 
+## Certification
+
+- [AWS Solution Architect Associate](https://www.credly.com/badges/49a3febb-da06-42dc-897d-527671880bb4/public_url)
+
+
 ## Latest Blog Posts
 
 - [How to deploy s3 Bucket using AWS CDK Typescript with Limited Bucket Policy?](https://subbusainathr.medium.com/how-to-deploy-s3-bucket-using-aws-cdk-typescript-with-limited-bucket-policy-75142edae4b8)
@@ -23,5 +28,4 @@ Follow me in [twitter](https://twitter.com/SubbuSainath),[dev.to](https://dev.to
 <img align="left" src ="https://github-readme-stats.vercel.app/api?username=subbusainath&&show_icons=true&theme=radical&show_owner=true"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbusainath&hide=css,html&theme=radical&layout=compact"/>
-
 
