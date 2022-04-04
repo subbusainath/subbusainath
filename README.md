@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📝 I regularly write articles on [medium.com/@subbusainathr](medium.com/@subbusainathr)
+- 📝 I regularly write articles on [medium.com/@subbusainathr](https://www.medium.com/@subbusainathr)
 
 - 💬 Ask me about **python, nodejs, AWS**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/subbusainath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/subbusainath" height="30" width="40" /></a>
+<a href="https://dev.to/subbusainath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/subbusainath" height="30" width="40" /></a>
 <a href="https://twitter.com/subbusainath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subbusainath" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/subbusainath-rengasamy-02609b188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subbusainath-rengasamy-02609b188/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9013511/subbusainath-rengasamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9013511/subbusainath-rengasamy" height="30" width="40" /></a>
