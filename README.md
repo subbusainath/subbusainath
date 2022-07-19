@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/subbusainath" target="blank"><img src="https://img.shields.io/twitter/follow/subbusainath?logo=twitter&style=for-the-badge" alt="subbusainath" /></a> </p>
 
-- 🔭 I’m currently working on **Measure Nexus**
+- 🔭 I’m currently working as **Backend Developer,Data Engineer**
 
-- 🌱 I’m currently learning **Databricks, pyspark and AWS Glue**
+- 🌱 I’m currently learning **Databricks,pyspark,AWS Services**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
