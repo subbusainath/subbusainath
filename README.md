@@ -55,7 +55,7 @@
 
 - [How to deploy s3 Bucket using AWS CDK Typescript with Limited Bucket Policy?](https://subbusainathr.medium.com/how-to-deploy-s3-bucket-using-aws-cdk-typescript-with-limited-bucket-policy-75142edae4b8) 🧗‍♂️
 
-- [SQS, SNS OR Step Functions- When to Use What](https://www.antstack.io/blog/SNS-SQS-StepFunction-When-to-Use-What/)
+- [SQS, SNS OR Step Functions- When to Use What](https://www.antstack.io/blog/SNS-SQS-StepFunction-When-to-Use-What/) :cool:
 
 - [How to create server side pagination Rest Endpoint using nodejs, prisma with Postgresql](https://dev.to/subbusainath/how-to-create-server-side-pagination-rest-api-endpoint-using-nodejs-prisma-with-postgresql-54l6)
 
