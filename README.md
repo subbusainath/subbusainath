@@ -15,11 +15,11 @@
 
 - 📝 I regularly write articles on [medium.com/@subbusainathr](https://www.medium.com/@subbusainathr)
 
-- 💬 Ask me about **python, nodejs, AWS**
+- 💬 Ask me about **python, nodejs, AWS and AWS Serverless Services**
 
 - 📫 How to reach me **sainath.subbu@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/351h2Jh](https://bit.ly/351h2Jh)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
