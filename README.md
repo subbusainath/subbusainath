@@ -51,7 +51,7 @@
 
 ## Latest Blog Posts
 
-- [How to create AWS AppSync with Lambda Authorizer using AWS CDK v2 with Nested Stack](https://medium.com/aws-in-plain-english/how-to-create-aws-appsync-with-lambda-authorizer-using-aws-cdk-v2-with-nested-stack-66c69f609f84) 🚀
+- [How to create AWS AppSync with Lambda Authorizer using AWS CDK v2 with Nested Stack](https://medium.com/aws-in-plain-english/how-to-create-aws-appsync-with-lambda-authorizer-using-aws-cdk-v2-with-nested-stack-66c69f609f84) 🚀 :rocket:
 
 - [How to deploy s3 Bucket using AWS CDK Typescript with Limited Bucket Policy?](https://subbusainathr.medium.com/how-to-deploy-s3-bucket-using-aws-cdk-typescript-with-limited-bucket-policy-75142edae4b8) 🧗‍♂️
 
