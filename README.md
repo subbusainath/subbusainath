@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm subbusainath rengasamy(thegentleGiant)</h1>
-<h3 align="center">A Passionate Cloud Backend Developer | AWS | Python | Nodejs</h3>
+<h3 align="center">A Passionate Cloud Backend Developer | AWS | Python | Nodejs </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subbusainath&label=Profile%20views&color=0e75b6&style=flat" alt="subbusainath" /> </p>
 
@@ -53,9 +53,9 @@
 
 ## Latest Blog Posts
 
-- [How to create AWS AppSync with Lambda Authorizer using AWS CDK v2 with Nested Stack](https://medium.com/aws-in-plain-english/how-to-create-aws-appsync-with-lambda-authorizer-using-aws-cdk-v2-with-nested-stack-66c69f609f84) 🚀 :rocket:
+- [How to create AWS AppSync with Lambda Authorizer using AWS CDK v2 with Nested Stack](https://medium.com/aws-in-plain-english/how-to-create-aws-appsync-with-lambda-authorizer-using-aws-cdk-v2-with-nested-stack-66c69f609f84) 🚀 :rocket: :snake:
 
-- [How to deploy s3 Bucket using AWS CDK Typescript with Limited Bucket Policy?](https://subbusainathr.medium.com/how-to-deploy-s3-bucket-using-aws-cdk-typescript-with-limited-bucket-policy-75142edae4b8) 🧗‍♂️
+- [How to deploy s3 Bucket using AWS CDK Typescript with Limited Bucket Policy?](https://subbusainathr.medium.com/how-to-deploy-s3-bucket-using-aws-cdk-typescript-with-limited-bucket-policy-75142edae4b8) 🧗‍♂️ :man:
 
 - [SQS, SNS OR Step Functions- When to Use What](https://www.antstack.io/blog/SNS-SQS-StepFunction-When-to-Use-What/) :cool:
 
